@@ -1,16 +1,31 @@
-# React + Vite
+🎉 Birthday Surprise Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a special React + Vite project created as a birthday surprise for my best friend 💖
 
-Currently, two official plugins are available:
+The idea was to build a beautiful, interactive experience instead of just a normal wish — something that feels emotional, fun, and memorable.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✨ Features
+🎂 Animated birthday landing page
+💖 Floating hearts & glowing UI effects
+📸 Memories section with photos carousel
+💌 Special message & friendship notes
+🎉 Celebration timeline
+🎁 Final surprise popup with confetti
+🎵 Background music for better experience
+🛠️ Tech Used
+React (Frontend)
+Vite (Fast build tool)
+Framer Motion (Animations)
+CSS (Custom styling & effects)
 
-## React Compiler
+🚀 How to Run
+npm install
+npm run dev
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🌐 Live Demo
 
-## Expanding the ESLint configuration
+👉 https://birthday-suprise-theta.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💖 Note
+
+This project is made with love to make someone feel special and happy on their birthday.

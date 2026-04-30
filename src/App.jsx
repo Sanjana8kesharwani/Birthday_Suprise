@@ -63,9 +63,26 @@ export default function App() {
               🎉 A Special Surprise 🎉
             </h1>
 
-            <p className="text-gray-300 mb-6 text-sm leading-relaxed">
-              Not just friends… we are a whole vibe 💫 <br />
-              Some bonds don’t need words, they just feel right 💖
+            <p className="text-gray-200 mb-6 text-base leading-relaxed font-medium tracking-wide italic">
+              <span className="text-pink-400 font-semibold text-xl">
+                Happy Birthday, Aditi ❤️
+              </span>{" "}
+              <br />
+              <br />
+              You’re not just my best friend, you’re my jaan, my safe place, and
+              truly like a sister to me. Life feels lighter and happier because
+              you’re in it. <br />
+              <br />
+              I may not always say it, but you mean more to me than words can
+              ever express. I’m so grateful to have you by my side. <br />
+              <br />
+              I pray you get all the happiness, love, and success you deserve.
+              May you always stay smiling, strong, and shining just the way you
+              are. <br />
+              <br />
+              <span className="text-pink-300 font-semibold">
+                Love you forever, Meri jaan 💕
+              </span>
             </p>
 
             <button
